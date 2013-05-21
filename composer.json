@@ -1,0 +1,10 @@
+{
+    "name": "GNV/HipchatTwitter",
+    "require": {
+        "hipchat/hipchat-php": ">=1.0.0",
+        "symfony/yaml": "*",
+        "twig/twig": "1.*",
+        "swiftmailer/swiftmailer": "4.3.*@dev",
+        "monolog/monolog": "1.0.*"
+    }   
+}
